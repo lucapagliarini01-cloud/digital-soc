@@ -1,0 +1,20 @@
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com [209.85.220.41])
+        by mx.google.com with SMTPS id ok; Wed, 14 Oct 2026 08:00:00 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@newsletter.libreria.example;
+       spf=pass smtp.mailfrom=bounce@mailer.libreria.example;
+       dmarc=pass (p=QUARANTINE) header.from=libreria.example
+Return-Path: <bounce-123@mailer.libreria.example>
+From: Libreria Esempio <news@libreria.example>
+To: utente@azienda.example
+Subject: Le novita di ottobre e gli eventi in negozio
+Date: Wed, 14 Oct 2026 17:00:00 +0200
+Message-ID: <nl-10@libreria.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Ciao, ecco le novita del mese: nuovi arrivi di narrativa e saggistica,
+la presentazione del libro sabato alle 18 e i gruppi di lettura (groups) del giovedi.
+Scopri il catalogo: https://www.libreria.example/novita
+Backups e privacy: https://www.libreria.example/privacy
+Per non ricevere piu la newsletter: https://www.libreria.example/disiscriviti

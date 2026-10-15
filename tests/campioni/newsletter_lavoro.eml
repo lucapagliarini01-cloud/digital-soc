@@ -1,0 +1,25 @@
+Received: from mta.linkedin.com (mta.linkedin.com [198.51.100.9]) by mx.google.com; Wed, 14 Oct 2026 08:00:00 -0700
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@linkedin.com;
+       spf=pass smtp.mailfrom=bounce@bounces.linkedin.com;
+       dmarc=pass (p=REJECT) header.from=linkedin.com
+From: "LinkedIn Lavoro" <jobs-noreply@linkedin.com>
+To: utente@gmail.com
+Subject: Nuove offerte di lavoro per te: Cybersecurity Expert
+Date: Wed, 14 Oct 2026 17:00:00 +0200
+Message-ID: <newsletter_lavoro.eml@linkedin.com>
+List-Unsubscribe: <https://linkedin.com/unsubscribe?u=1>, <mailto:unsub@linkedin.com>
+List-Id: <jobs.linkedin.com>
+MIME-Version: 1.0
+X-Training-Notice: campione sintetico di test
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><img src=3D"https://static.licdn.com/logo.png"><p>Nuove offerte=
+ per te: Cybersecurity Expert (Data Protection &amp; DLP).
+Gestione di password, credenziali e accessi privilegiati, risposta agli inc=
+identi di sicurezza. Candidati subito: scade entro 24 ore!</p>
+<p><a href=3D"https://www.linkedin.com/comm/jobs/view/123">Visualizza offer=
+ta</a> <a href=3D"https://media.licdn.com/x">Logo</a></p>
+<p><a href=3D"https://www.linkedin.com/comm/psettings/email-unsubscribe">An=
+nulla iscrizione</a></p></body></html>

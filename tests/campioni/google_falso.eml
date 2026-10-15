@@ -1,0 +1,19 @@
+Received: from mail.accounts-google-security.example (mail.accounts-google-security.example [203.0.113.50])
+        by mx.google.com with ESMTPS id test; Wed, 14 Oct 2026 10:00:00 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts-google-security.example;
+       spf=pass smtp.mailfrom=no-reply@accounts-google-security.example;
+       dmarc=pass header.from=accounts-google-security.example
+From: Google <no-reply@accounts-google-security.example>
+To: utente@gmail.com
+Subject: Avviso di sicurezza
+Date: Wed, 14 Oct 2026 19:00:00 +0200
+Message-ID: <test-google-falso@accounts-google-security.example>
+MIME-Version: 1.0
+X-Training-Notice: Campione sintetico di TEST (domini riservati alla documentazione)
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png">
+<p>Abbiamo rilevato un nuovo accesso al tuo Account Google. Altrimenti ti aiuteremo a proteggere il tuo account: cambia la password.</p>
+<p><a href="https://accounts.google.com.verifica-login.example/AccountChooser">https://accounts.google.com/AccountChooser</a></p>
+</body></html>

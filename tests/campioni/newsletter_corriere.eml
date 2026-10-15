@@ -1,0 +1,39 @@
+Received: from mta.newsletter.rcsmediagroup.it (mta [198.244.62.247]) by mx.google.com; Wed, 14 Oct 2026 05:00:00 -0700
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@newsletter.rcsmediagroup.it header.s=s1;
+       spf=pass smtp.mailfrom=bounce@bnc.newsletter.rcsmediagroup.it;
+       dmarc=none (p=NONE sp=NONE dis=NONE) header.from=newsletter.rcsmediagroup.it
+From: Corriere della Sera <noreply@newsletter.rcsmediagroup.it>
+To: utente@gmail.com
+Subject: Prima Ora: le notizie del mattino
+Date: Wed, 14 Oct 2026 14:00:00 +0200
+Message-ID: <corriere-test@newsletter.rcsmediagroup.it>
+List-Unsubscribe: <https://links.newsletter.rcsmediagroup.it/unsub>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+X-Training-Notice: campione sintetico di test che imita la struttura di una newsletter reale
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><body>
+<img src=3D"https://www.corriere.it/newsletter/images/primaora.png">
+<p>Prima Ora. Le notizie del mattino. Un attacco hacker ha rubato passw=
+ord e credenziali: le aziende devono agire subito,
+Google e Microsoft corrono ai ripari dopo il data breach. Clicca qui per le=
+ggere.</p>
+<p><img src=3D"https://images2.corriereobjects.it/images/editorialisti/fir=
+ma.jpg">
+<a href=3D"https://links.newsletter.rcsmediagroup.it/els/v2/abc">Leggi l'ar=
+ticolo</a>
+<a href=3D"https://www.corriere.it/esteri/articolo.shtml">Corriere.it</a></=
+p>
+<p><a href=3D"https://www.facebook.com/corriere"><img src=3D"https://images=
+2.corriereobjects.it/newsletter/images/facebook.png"></a>
+<a href=3D"https://x.com/corriere">X</a> <a href=3D"https://www.instagram.c=
+om/corriere">IG</a>
+<a href=3D"https://play.google.com/store/apps/details?id=3Dit.corriere">App=
+</a>
+<a href=3D"https://links.newsletter.rcsmediagroup.it/unsub">Cancella iscriz=
+ione</a></p></body></html>

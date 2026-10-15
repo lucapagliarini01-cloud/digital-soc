@@ -1,0 +1,22 @@
+# ambiente
+venv/
+.venv/
+__pycache__/
+*.pyc
+# MAI nel repository: email reali, segreti, configurazioni, dati, report
+*.eml
+!tests/campioni/*.eml
+*.msg
+*.mbox
+*.toml
+!pyproject.toml
+*.json
+*.key
+*.pem
+*.p12
+.env
+.env.*
+segreti/
+*.sqlite3*
+report_*.txt
+report_*.html

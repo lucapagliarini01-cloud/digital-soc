@@ -1,0 +1,4 @@
+requests>=2.31
+python-whois>=0.9
+dnspython>=2.4
+dkimpy>=1.1          # cryptographic DKIM verification (optional)

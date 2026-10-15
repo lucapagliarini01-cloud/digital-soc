@@ -1,0 +1,32 @@
+Received: from mta.giornale-esempio.it (mta.giornale-esempio.it [198.51.100.9]) by mx.google.com; Wed, 14 Oct 2026 08:00:00 -0700
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@giornale-esempio.it;
+       spf=pass smtp.mailfrom=bounce@bounces.giornale-esempio.it;
+       dmarc=pass (p=REJECT) header.from=giornale-esempio.it
+From: "Giornale Esempio" <newsletter@giornale-esempio.it>
+To: utente@gmail.com
+Subject: =?UTF-8?B?8J+SuA==?= L'economia mondiale =?UTF-8?B?w6g=?= ancora resiliente
+Date: Wed, 14 Oct 2026 17:00:00 +0200
+Message-ID: <newsletter_giornale.eml@giornale-esempio.it>
+List-Unsubscribe: <https://giornale-esempio.it/unsubscribe?u=1>, <mailto:unsub@giornale-esempio.it>
+MIME-Version: 1.0
+X-Training-Notice: campione sintetico di test
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><link href=3D"https://fo=
+nts.googleapis.com/css?family=3DRoboto" rel=3D"stylesheet"></head><body>
+<p>Le notizie di oggi. Microsoft corregge subito 1.400 falle: aggiorna Wind=
+ows. Google e Apple sotto indagine
+per un attacco hacker: rubate password e credenziali di milioni di utenti, =
+data breach confermato.</p>
+<p><a href=3D"https://links.giornale-esempio.it/c/abc">Leggi l'articolo</a>=
+ =C2=B7 <a href=3D"https://click.mailtracking-esempio.com/x?u=3D1">Clicca q=
+ui</a></p>
+<p><a href=3D"https://www.facebook.com/giornale">Facebook</a> <a href=3D"ht=
+tps://x.com/giornale">X</a> <a href=3D"https://www.instagram.com/giornale">=
+Instagram</a>
+<a href=3D"https://giornale-esempio.it/unsubscribe">Disiscriviti</a></p></b=
+ody></html>

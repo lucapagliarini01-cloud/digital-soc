@@ -1,0 +1,32 @@
+Received: from mta.eur.comunicazioni.poste.it (mta [13.69.226.129]) by mx.google.com; Fri, 09 Oct 2026 08:51:00 -0700
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@comunicazioni.poste.it header.s=eurkey1 header.b=SA4SMALw;
+       dkim=pass header.i=@eur.pb-dynmktge.com header.s=key1 header.b=FOeEdUMr;
+       spf=pass (google.com: domain of b-1_x@bouncing.eur.comunicazioni.poste.it designates 13.69.226.129 as permitted sender) smtp.mailfrom=b-1_x@bouncing.eur.comunicazioni.poste.it;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=poste.it
+From: Postepay <mail@comunicazioni.poste.it>
+Reply-To: reply-to@comunicazioni.poste.it
+To: utente@gmail.com
+Subject: =?UTF-8?B?8J+OgSBGYW50YXN0aWNpIHByZW1pIHRpIGFzcGV0dGFubyBjb24gUG9zdGVwYXkgUGF5JldpbiE=?=
+Date: Fri, 09 Oct 2026 17:51:00 +0200
+Message-ID: <6BA5E61VIUU4.test@bouncing.eur.comunicazioni.poste.it>
+MIME-Version: 1.0
+X-Training-Notice: campione sintetico di test ricostruito dalla struttura di una email reale
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Fantastici premi ti aspettano con Postepay Pay&amp;Win! Part=
+ecipa subito e prova a vincere un buono regalo
+Amazon da 50 euro o il cashback sui tuoi acquisti.</p>
+<p><a href=3D"https://604ce848eea84ab5a3e80500463ef643.104.eu.prod.marketin=
+gusercontent.com/c/abc123?u=3D1">Partecipa ora</a> =C2=B7 <a href=3D"https:=
+//604ce848eea84ab5a3e80500463ef643.104.eu.prod.marketingusercontent.com/c/a=
+bc123?u=3D2">www.poste.it</a></p>
+<p>Scarica l'app: <a href=3D"https://appup.mobile.poste.it/app">App Postepa=
+y</a>
+<a href=3D"https://apps.apple.com/it/app/postepay/id123">App Store</a> <a h=
+ref=3D"https://play.google.com/store/apps/details?id=3Dpostepay">Google Pla=
+y</a></p>
+<p>Ricorda: Poste Italiane non ti chieder=C3=A0 mai via email password, cod=
+ici o credenziali di accesso.
+Diffida da email o SMS che ti chiedono i tuoi dati.</p></body></html>
